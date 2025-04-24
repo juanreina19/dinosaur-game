@@ -1,7 +1,7 @@
 # 🦖 Dinosaur Game
 
 Este proyecto es una recreación del clásico **juego del dinosaurio de Google Chrome** que aparece cuando no hay conexión a internet.  
-Fue desarrollado con **HTML, CSS y JavaScript**, totalmente ejecutable en el navegador.
+Fue desarrollado con **HTML y JavaScript**, totalmente ejecutable en el navegador.
 
 ## 🎮 ¿Qué hace este juego?
 
